@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Esto asegura que el fondo sea negro profundo desde el inicio */
+html, body {
+  background-color: #0c0a09;
+  margin: 0;
+  padding: 0;
+}
