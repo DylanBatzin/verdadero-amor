@@ -107,8 +107,7 @@ const TrueLove: React.FC = () => {
                 <p className="text-stone-300 mb-6">Etiquétanos en nuestras redes sociales:</p>
                 
                 <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
-                  <a href="https://www.instagram.com/ministerio_de_adolescente?igsh=MWhzbmVrZ2V4M2Z1dg==" target="_blank" className="bg-gradient-to-tr from-yellow-500 via-red-500 to-purple-500 px-6 py-2 rounded-full font-bold hover:scale-105 transition-transform">
-                    Instagram
+                  <a href="https://www.instagram.com/ministerio_de_adolescente" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-tr from-yellow-500 via-red-500 to-purple-500 px-6 py-2 rounded-full font-bold hover:scale-105 transition-transform">                    Instagram
                   </a>
                   <a href="https://www.facebook.com/share/1HDNvzzCnZ/" target="_blank" className="bg-blue-700 px-6 py-2 rounded-full font-bold hover:scale-105 transition-transform">
                     Facebook
